@@ -39,6 +39,11 @@ section img.background {
   transform: translate(-50%);
 }
 
+#meunome {
+  color: #fff;
+  font-family: Apple Chancery, cursive;
+}
+
 h1 {
   margin: 0;
   font-family: Cormorant Garamond, serif;
